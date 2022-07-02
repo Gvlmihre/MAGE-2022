@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MAGE-2022-TEAM4/CubeCartApplication2021.iml" filepath="$PROJECT_DIR$/MAGE-2022-TEAM4/CubeCartApplication2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MAGE-github.iml" filepath="$PROJECT_DIR$/.idea/MAGE-github.iml" />
+    </modules>
+  </component>
+</project>
